@@ -113,3 +113,6 @@ border-radius: 35px;
 
 }
 
+#masterPlay{
+    transition: all 1s linear;
+}
