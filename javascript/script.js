@@ -5,6 +5,8 @@ let audioElement = new Audio('1.mp3');
 
 audioElement.play();
 
+
+
 // let masterPlay = document.getElementById('masterPlay');
 // let myProgressBar = document.getElementById('myProgressBar');
 
